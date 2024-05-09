@@ -50,3 +50,5 @@ WebUI.rightClick(findTestObject('Object Repository/Page_CURA Healthcare Service/
 
 WebUI.closeBrowser()
 
+WebUI.delay(1)
+
