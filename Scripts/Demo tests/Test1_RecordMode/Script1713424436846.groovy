@@ -48,5 +48,3 @@ WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/tex
 
 WebUI.rightClick(findTestObject('Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment'))
 
-WebUI.closeBrowser()
-
