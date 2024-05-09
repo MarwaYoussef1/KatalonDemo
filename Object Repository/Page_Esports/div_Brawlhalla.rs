@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Brawlhalla</name>
+   <tag></tag>
+   <elementGuidId>36ae24a8-44fc-433c-af5a-1b1e2c959f49</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-0']/app-games-modal-list/div/div[2]/ul/li[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Brawlhalla$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1b18241c-ac32-4190-9c02-ee6c2dfb4313</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>left</value>
+      <webElementGuid>568d3568-5d8e-42bf-931a-da2772934a3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Brawlhalla</value>
+      <webElementGuid>1e428cef-c1b7-4daf-8fde-64f9b72e81ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-0&quot;)/app-games-modal-list[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;card rounded-5 shadow-sm bg-dark ng-star-inserted&quot;]/div[@class=&quot;card-body&quot;]/ul[@class=&quot;games-list-wrpper&quot;]/li[@class=&quot;list-item ng-star-inserted&quot;]/div[@class=&quot;left&quot;]</value>
+      <webElementGuid>5bf0c6ec-329c-4edb-a226-61ebd1a9901a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/app-games-modal-list/div/div[2]/ul/li[3]/div</value>
+      <webElementGuid>6a50289b-c3ce-4b32-a20f-56f36c462a99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apex Legends Mobile'])[1]/following::div[2]</value>
+      <webElementGuid>76bf2425-82d7-4b53-b130-b3c3e1b09aed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apex Legends'])[1]/following::div[5]</value>
+      <webElementGuid>715d4673-8273-4027-b9eb-a70fdc7578e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clash Royale'])[1]/preceding::div[4]</value>
+      <webElementGuid>404ff687-0746-4610-b707-34b9d782f602</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div</value>
+      <webElementGuid>a3f349b5-0079-440c-81ba-b0b78036b206</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Brawlhalla' or . = 'Brawlhalla')]</value>
+      <webElementGuid>ae001ce2-cb4a-4367-95ab-3ba5479bebfd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

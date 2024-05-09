@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>header_teamfa3</name>
+   <tag></tag>
+   <elementGuidId>efe475a5-cab5-439a-b7ab-e60681892483</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Archived Teams'])[1]/following::header[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>header.mb-3.align-items-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>header</value>
+      <webElementGuid>1e893272-d7a2-458e-8c5f-6d6004ea9c6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-3 align-items-center</value>
+      <webElementGuid>fa14f189-ea19-4aef-9b69-f53f375aa9b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>teamfa3</value>
+      <webElementGuid>be7b4b6f-0c65-4866-98b1-0e3dea725b34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;default-theme&quot;]/app-root[1]/app-auth-layout-lg[@class=&quot;default-theme ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/app-admin-teams[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;mangement-container&quot;]/div[@class=&quot;grid-container row&quot;]/app-admin-all-teams[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row ng-star-inserted&quot;]/app-admin-all-teams-list[@class=&quot;list-container col-md-12 col-lg-5 col-xl-4 col-xxl-4 ng-star-inserted&quot;]/div[@class=&quot;card mt-2 list-item ng-star-inserted&quot;]/header[@class=&quot;mb-3 align-items-center&quot;]</value>
+      <webElementGuid>8883afb8-d9d6-4b35-bc4d-476ed2464cb7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Archived Teams'])[1]/following::header[1]</value>
+      <webElementGuid>bfb6ee6a-4fd6-4e3c-9cd3-308a2325c9c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Teams'])[1]/following::header[1]</value>
+      <webElementGuid>1532a025-30e6-43a8-a3e9-fd1dae14c6e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='fadelclub'])[1]/preceding::header[1]</value>
+      <webElementGuid>51d6cc70-99bf-4401-b83e-61a8f52a0227</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header</value>
+      <webElementGuid>7db7872f-79cd-4fbc-a6dc-f2b2d71e848c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//header[(text() = 'teamfa3' or . = 'teamfa3')]</value>
+      <webElementGuid>5e608b17-f6c9-42ea-b116-2df875c3c416</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

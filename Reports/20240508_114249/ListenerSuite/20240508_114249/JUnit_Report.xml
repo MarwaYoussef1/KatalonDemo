@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="ListenerSuite" time="0.431" tests="1" failures="0" errors="0">
+   <testsuite name="ListenerSuite" tests="1" failures="0" errors="0" time="0.431" skipped="0" timestamp="08-05-2024T11:42:55" hostname="marwa - LAPTOP-3G6PEO70" id="Test Suites/ListenerSuite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\work\\STC\\Automation\\katalon\\katalon_Course\\TrainingWebProject\\Reports\\20240508_114249\\ListenerSuite\\20240508_114249"/>
+         <property name="logFiles" value="C:\\work\\STC\\Automation\\katalon\\katalon_Course\\TrainingWebProject\\Reports\\20240508_114249\\ListenerSuite\\20240508_114249\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="marwa - LAPTOP-3G6PEO70"/>
+         <property name="hostAddress" value="10.241.100.43"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+      </properties>
+      <testcase name="Test Cases/Demo tests/Test10_ListenerDemo" time="0.122" classname="Test Cases/Demo tests/Test10_ListenerDemo" status="PASSED">
+         <system-out><![CDATA[08-05-2024T11:42:55 - [TEST_CASE][PASSED] - Test Cases/Demo tests/Test10_ListenerDemo: Test Cases/Demo tests/Test10_ListenerDemo
+
+08-05-2024T11:42:55 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+08-05-2024T11:42:55 - [TEST_STEP][PASSED] - println("i am in before test case in test listener"): null
+
+08-05-2024T11:42:55 - [TEST_STEP][PASSED] - Start setup action : setupTestCase: Method 'setupTestCase' complete successfully
+
+08-05-2024T11:42:55 - [TEST_STEP][PASSED] - println(" i am in setup function of testcase in suite "): null
+
+08-05-2024T11:42:55 - [MESSAGE][PASSED] - Method 'setupTestCase' complete successfully
+
+08-05-2024T11:42:55 - [TEST_STEP][PASSED] - println(" i am in testcase"): null
+
+08-05-2024T11:42:55 - [TEST_STEP][PASSED] - Start tear down : tearDownTestCase: Method 'tearDownTestCase' complete successfully
+
+08-05-2024T11:42:55 - [TEST_STEP][PASSED] - println(" i am in teardown function of testcase in suite "): null
+
+08-05-2024T11:42:55 - [MESSAGE][PASSED] - Method 'tearDownTestCase' complete successfully
+
+08-05-2024T11:42:55 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+08-05-2024T11:42:55 - [TEST_STEP][PASSED] - println("i am in after test case in test listener"): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[08-05-2024T11:42:55 - [TEST_SUITE][PASSED] - ListenerSuite: Test Cases/Demo tests/Test10_ListenerDemo]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Bronze_icon-dots-vertical</name>
+   <tag></tag>
+   <elementGuidId>b118d458-5425-48d1-9844-59ea8fb07b95</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cdk-drop-list-1 > div.cdk-drag.inner > div.actions > div.dropdown > button.d-flex.justify-content-center.align-items-center > i.icon-dots-vertical</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div/div/div/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>cdda0003-6940-4285-8ad0-22722dc689d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-dots-vertical</value>
+      <webElementGuid>75ce8fcc-7012-4d37-a223-a17c97b3895f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-drop-list-1&quot;)/div[@class=&quot;cdk-drag inner&quot;]/div[@class=&quot;actions&quot;]/div[@class=&quot;dropdown&quot;]/button[@class=&quot;d-flex justify-content-center align-items-center&quot;]/i[@class=&quot;icon-dots-vertical&quot;]</value>
+      <webElementGuid>c0f47ecf-df70-472a-accb-8552c83dbb0c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-drop-list-1']/div/div/div/button/i</value>
+      <webElementGuid>a5f9ec4b-af6c-4d41-bab2-ff9f678166a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bronze'])[1]/following::i[1]</value>
+      <webElementGuid>a9c629f2-709b-46ac-ab1d-e17473b5f9f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Peak ranking'])[1]/following::i[1]</value>
+      <webElementGuid>0f25d29c-2251-437e-ad83-f962bac5bb8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/button/i</value>
+      <webElementGuid>49a78f1a-10c9-48ac-9c45-b978a048a119</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

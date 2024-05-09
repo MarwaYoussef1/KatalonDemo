@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Demo suite,Chrome 124.0.0.0,,,30-04-2024 14:39:59,30-04-2024 14:40:24,25.072s,PASSED
+,,,,,,,
+Test Cases/Demo tests/Test8_DataDriven,Chrome 124.0.0.0,,,30-04-2024 14:39:59,30-04-2024 14:40:15,15.450s,PASSED
+"openBrowser("""")",Chrome 124.0.0.0,,,30-04-2024 14:40:00,30-04-2024 14:40:03,3.235s,PASSED
+"navigateToUrl(""https://admin-demo.nopcommerce.com/login"")",Chrome 124.0.0.0,,,30-04-2024 14:40:03,30-04-2024 14:40:05,1.987s,PASSED
+"setText(findTestObject(""Object Repository/Page_Your store. Login/input_Email_Email""), username)",Chrome 124.0.0.0,,,30-04-2024 14:40:05,30-04-2024 14:40:06,1.579s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Your store. Login/input_Password_Password""), password)",Chrome 124.0.0.0,,,30-04-2024 14:40:06,30-04-2024 14:40:07,0.366s,PASSED
+"click(findTestObject(""Object Repository/Page_Your store. Login/button_Log in""))",Chrome 124.0.0.0,,,30-04-2024 14:40:07,30-04-2024 14:40:09,2.442s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard  nopCommerce administration/a_Logout""))",Chrome 124.0.0.0,,,30-04-2024 14:40:09,30-04-2024 14:40:13,4.365s,PASSED
+closeBrowser(),Chrome 124.0.0.0,,,30-04-2024 14:40:13,30-04-2024 14:40:15,1.168s,PASSED
+,,,,,,,
+Test Cases/Demo tests/Test8_DataDriven,Chrome 124.0.0.0,,,30-04-2024 14:40:15,30-04-2024 14:40:24,9.301s,PASSED
+"openBrowser("""")",Chrome 124.0.0.0,,,30-04-2024 14:40:15,30-04-2024 14:40:15,0.704s,PASSED
+"navigateToUrl(""https://admin-demo.nopcommerce.com/login"")",Chrome 124.0.0.0,,,30-04-2024 14:40:15,30-04-2024 14:40:17,1.302s,PASSED
+"setText(findTestObject(""Object Repository/Page_Your store. Login/input_Email_Email""), username)",Chrome 124.0.0.0,,,30-04-2024 14:40:17,30-04-2024 14:40:18,1.348s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Your store. Login/input_Password_Password""), password)",Chrome 124.0.0.0,,,30-04-2024 14:40:18,30-04-2024 14:40:18,0.366s,PASSED
+"click(findTestObject(""Object Repository/Page_Your store. Login/button_Log in""))",Chrome 124.0.0.0,,,30-04-2024 14:40:18,30-04-2024 14:40:21,2.713s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard  nopCommerce administration/a_Logout""))",Chrome 124.0.0.0,,,30-04-2024 14:40:21,30-04-2024 14:40:24,2.700s,PASSED
+closeBrowser(),Chrome 124.0.0.0,,,30-04-2024 14:40:24,30-04-2024 14:40:24,0.146s,PASSED

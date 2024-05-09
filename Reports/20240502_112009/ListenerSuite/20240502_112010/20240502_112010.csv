@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+ListenerSuite,,,,02-05-2024 11:20:15,02-05-2024 11:20:16,0.407s,PASSED
+,,,,,,,
+Test Cases/Demo tests/Test10_ListenerDemo,,,,02-05-2024 11:20:15,02-05-2024 11:20:16,0.117s,PASSED
+Start listener action : sampleBeforeTestCase,,,,02-05-2024 11:20:15,02-05-2024 11:20:15,0.005s,PASSED
+Start setup action : setupTestCase,,,,02-05-2024 11:20:15,02-05-2024 11:20:15,0.005s,PASSED
+"println("" i am in testcase"")",,,,02-05-2024 11:20:16,02-05-2024 11:20:16,0.001s,PASSED
+Start tear down : tearDownTestCase,,,,02-05-2024 11:20:16,02-05-2024 11:20:16,0.005s,PASSED
+Start listener action : sampleAfterTestCase,,,,02-05-2024 11:20:16,02-05-2024 11:20:16,0.003s,PASSED

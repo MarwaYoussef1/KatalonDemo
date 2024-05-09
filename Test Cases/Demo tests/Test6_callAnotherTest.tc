@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test6_callAnotherTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>45fc084d-51a3-48e6-b896-db856ecb2dfe</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3571aa9a-2125-4108-b835-ba17161e2df4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'game1\r\n'</defaultValue>
+      <description></description>
+      <id>3571aa9a-2125-4108-b835-ba17161e2df4</id>
+      <masked>false</masked>
+      <name>gameName</name>
+   </variable>
+</TestCaseEntity>
