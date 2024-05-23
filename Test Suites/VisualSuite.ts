@@ -18,4 +18,11 @@
       <testCaseId>Test Cases/Demo tests/Test16_VisualTestingWithoutApplite</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>bdd5de54-907c-451b-8b90-05013da5cebd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Demo tests/Test16_VisualTestingWithoutApplite</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>
