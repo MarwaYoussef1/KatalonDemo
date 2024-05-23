@@ -37,8 +37,6 @@ WebUI.takeScreenshotAsCheckpoint('club management screen')
 
 WebUI.click(findTestObject('Object Repository/Page_Esports/span_Teams Management'))
 
-WebUI.takeScreenshotAsCheckpoint('club management screen')
-
 WebUI.click(findTestObject('Object Repository/Page_Esports/span_Members'))
 
 WebUI.click(findTestObject('Object Repository/Page_Esports/span_Teams'))
