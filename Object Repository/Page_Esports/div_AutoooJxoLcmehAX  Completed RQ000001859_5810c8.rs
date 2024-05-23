@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AutoooJxoLcmehAX  Completed RQ000001859_5810c8</name>
+   <tag></tag>
+   <elementGuidId>72426183-3638-4212-a94e-de2623fe995b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.table-list-item.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Event License'])[1]/following::div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;AutoooJxoLcmehAX Completed RQ000001859contract request 22nd May 2024&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6d9dc0ae-6f27-441e-b8f9-c93ba486e96c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlinkactive</name>
+      <type>Main</type>
+      <value>active</value>
+      <webElementGuid>e5cf3c85-5b19-4f50-9d79-c23eb4477f01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>table-list-item ng-star-inserted</value>
+      <webElementGuid>c7549117-43cc-4d13-ad6c-9b02fce9b4fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>1cb4cf77-8e8e-41f6-a66b-feb8889a8bdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-index</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>51fee73f-c4a6-462b-be18-529609b9476e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> AutoooJxoLcmehAX  Completed RQ000001859contract request 22nd May 2024 </value>
+      <webElementGuid>dc3c66e7-6d2f-4083-9edf-1d829cd5cbd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;default-theme&quot;]/app-root[1]/app-auth-layout-lg[@class=&quot;default-theme ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/app-crm-managment[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;mangement-container&quot;]/app-requests-managment[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row ng-star-inserted&quot;]/app-requests-list[@class=&quot;list-container col-md-12 col-lg-5 col-xl-4 col-xxl-4 ng-star-inserted&quot;]/section[@class=&quot;list-wrapper&quot;]/div[@class=&quot;table-list ng-star-inserted&quot;]/div[@class=&quot;table-list-item ng-star-inserted&quot;]</value>
+      <webElementGuid>6ec178b7-7c64-456c-90f7-b7ae0c43a822</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Event License'])[1]/following::div[2]</value>
+      <webElementGuid>012f3ac7-ae1c-4e6c-bac0-408877a4b5a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Participation Letter'])[1]/following::div[2]</value>
+      <webElementGuid>90a3f579-916b-4096-a0c7-e491d4956a7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div</value>
+      <webElementGuid>dee467d3-7469-403d-9070-c2b9f3e6a26a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' AutoooJxoLcmehAX  Completed RQ000001859contract request 22nd May 2024 ' or . = ' AutoooJxoLcmehAX  Completed RQ000001859contract request 22nd May 2024 ')]</value>
+      <webElementGuid>f4abadd7-0d37-4450-81d9-fe79f3f9c5a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

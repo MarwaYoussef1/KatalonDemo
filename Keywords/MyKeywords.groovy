@@ -20,6 +20,7 @@ import internal.GlobalVariable
 
 public class MyKeywords {
 	
+	def name;
 	@Keyword(keywordObject = "Browser")
 	def hello(){
 	println " Hello World... "
@@ -34,5 +35,13 @@ public class MyKeywords {
 		WebUI.click(findTestObject('Page_OrangeHRM/button_Login'))
 	}
 	
+	def setName(String userName){
+		name=userName
+	}
+	
+	def String getName()
+	{
+		return name
+	}
 	
 }

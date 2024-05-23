@@ -31,7 +31,7 @@ WebUI.click(findTestObject('Object Repository/Page_Esports/div_Brawlhalla'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Esports/input_In-game Name_in_game_name'), gameName)
 
-WebUI.click(findTestObject('Object Repository/Page_Esports/input_text'))
+WebUI.click(findTestObject('Object Repository/Page_Esports/input_Archived Teams_form-control ng-untouc_ff8c87'))
 
 WebUI.delay(1)
 
