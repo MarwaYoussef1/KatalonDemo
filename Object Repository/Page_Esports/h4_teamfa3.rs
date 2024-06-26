@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_teamfa3</name>
+   <tag></tag>
+   <elementGuidId>392f8b8f-8271-4a83-ae18-7ae7629ccb9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h4.m-0.fw-light</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Archived Teams'])[1]/following::h4[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;teamfa3&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>83102a2b-3932-4d9b-a873-e071f649d276</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-0 fw-light</value>
+      <webElementGuid>ff8f8dd9-986a-43d8-aff9-891f949ac176</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>teamfa3</value>
+      <webElementGuid>dc688f74-a4b7-48dd-b8b2-5a5a30165043</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;default-theme&quot;]/app-root[1]/app-auth-layout-lg[@class=&quot;default-theme ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/app-admin-teams[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;mangement-container&quot;]/div[@class=&quot;grid-container row&quot;]/app-admin-all-teams[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row ng-star-inserted&quot;]/app-admin-all-teams-list[@class=&quot;list-container col-md-12 col-lg-5 col-xl-4 col-xxl-4 ng-star-inserted&quot;]/div[@class=&quot;card mt-2 list-item ng-star-inserted&quot;]/header[@class=&quot;mb-3 align-items-center&quot;]/h4[@class=&quot;m-0 fw-light&quot;]</value>
+      <webElementGuid>6c6da3b7-87ed-4b88-9c33-c7a8e11d2e0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Archived Teams'])[1]/following::h4[1]</value>
+      <webElementGuid>4d046f4e-cbab-47fa-a95c-d6045d97a037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Teams'])[1]/following::h4[1]</value>
+      <webElementGuid>b4fc8a9d-c772-4464-9d3f-ecd9c7f78d70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='fadelclub'])[1]/preceding::h4[1]</value>
+      <webElementGuid>2206581a-fdf9-4a0b-9e8a-8cc5b41434cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='teamfa3']/parent::*</value>
+      <webElementGuid>63961d35-cb25-4eea-9085-21150381a642</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>5692f236-0835-47fa-a209-8ff1040f9852</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'teamfa3' or . = 'teamfa3')]</value>
+      <webElementGuid>61f46397-614e-442f-961d-5a65cd551998</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

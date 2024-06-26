@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "keywordFileContentHash": "18A3463BDC03CCBBA2BF0D088DA3B6E0",
+=======
+  "keywordFileContentHash": "E15F041FFAC0FA663FED24CC14E1CA85",
+>>>>>>> branch 'master' of https://github.com/MarwaYoussef1/KatalonDemo.git
   "keywordClasses": [
     {
       "name": "MyKeywords",

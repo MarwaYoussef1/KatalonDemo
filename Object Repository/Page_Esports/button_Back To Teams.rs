@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Login</name>
+   <name>button_Back To Teams</name>
    <tag></tag>
-   <elementGuidId>07694d96-fff1-4b6d-be12-bf87f940681d</elementGuidId>
+   <elementGuidId>4131d884-1204-4a5d-9c41-666e2f750dfd</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.btn.login-btn</value>
+         <value>button.swal2-confirm</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='عربي'])[1]/following::button[1]</value>
+         <value>(//button[@type='button'])[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Login&quot;i]</value>
+         <value>internal:role=button[name=&quot;Back To Teams&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,86 +29,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>3f9427da-963d-4316-bc67-fc15ba3f480c</webElementGuid>
+      <webElementGuid>c93e19dd-44eb-4a81-9d66-db8c810602f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b5e69244-b40d-4fa7-841e-a59353170f02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn login-btn</value>
-      <webElementGuid>820ac281-a2cf-4146-b7b8-7745c530a966</webElementGuid>
+      <value>swal2-confirm</value>
+      <webElementGuid>64e79a21-65b8-499e-ae66-f4eb0948a55d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Login</value>
-      <webElementGuid>a82e39ce-c720-4a5d-84be-196d65e967a2</webElementGuid>
+      <value>Back To Teams</value>
+      <webElementGuid>10c8a3ed-4e38-4e54-9666-4f26d3da63e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;default-theme&quot;]/app-root[1]/app-public-layout[@class=&quot;ng-star-inserted&quot;]/main[@class=&quot;layout-container bg&quot;]/div[@class=&quot;layout-content&quot;]/app-sef-header[1]/app-navbar-lg[@class=&quot;ng-star-inserted&quot;]/nav[@class=&quot;navbar navbar-expand-lg sef-nav&quot;]/div[@class=&quot;container-fluid p-0&quot;]/div[@class=&quot;nav-btns-container&quot;]/div[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;btn login-btn&quot;]</value>
-      <webElementGuid>46f4d9ee-9c01-489d-aa49-048485a9bb9c</webElementGuid>
+      <value>/html[@class=&quot;swal2-shown swal2-height-auto&quot;]/body[@class=&quot;default-theme swal2-shown swal2-height-auto&quot;]/div[@class=&quot;swal2-container swal2-center undefined swal2-backdrop-show&quot;]/div[@class=&quot;swal2-popup swal2-modal confirm-modal not-authorized-confirmation-popup swal2-show&quot;]/div[@class=&quot;swal2-actions&quot;]/button[@class=&quot;swal2-confirm&quot;]</value>
+      <webElementGuid>f0d2ce05-bc34-45d7-8019-0dec3f27c8a6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='عربي'])[1]/following::button[1]</value>
-      <webElementGuid>57be5167-ff22-4511-ae1c-2bbdfb9ce9fe</webElementGuid>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>0f4b925a-3fbd-4c9d-a908-867ab4caf636</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='ع'])[1]/following::button[1]</value>
-      <webElementGuid>92bf5c37-6bf6-4f8a-8c00-1b5fe85e7ec4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sorry, An error is occurred, please try again'])[1]/following::button[1]</value>
+      <webElementGuid>34d241cd-69d5-4132-8815-c7c9cd3e381d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='SEF Arena'])[1]/preceding::button[1]</value>
-      <webElementGuid>cde11947-26c5-4a05-b9a9-f63ff3d5091f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Authroized'])[1]/following::button[1]</value>
+      <webElementGuid>59a0ae9b-9b29-4fd0-b2fe-061b2868fa1f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='abc'])[1]/preceding::button[1]</value>
-      <webElementGuid>9a57590d-9a65-4bfe-ba15-ec9373fa4db3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::button[1]</value>
+      <webElementGuid>4f540d73-b890-4dce-bada-8421b1adae8f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
-      <webElementGuid>99481940-1f76-4e0e-81ed-7482a3b7697a</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Back To Teams']/parent::*</value>
+      <webElementGuid>69248057-fc15-478c-aff3-aa92bd4c696e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>7330e3cc-a357-4d53-899e-425b900c4b15</webElementGuid>
+      <value>//div[6]/button</value>
+      <webElementGuid>b8d22079-1951-4257-8440-8c9ccced3a6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>246e25a6-8e6e-424e-af7d-0c0f6debf172</webElementGuid>
+      <value>//button[@type = 'button' and (text() = 'Back To Teams' or . = 'Back To Teams')]</value>
+      <webElementGuid>8a57167f-2b49-491e-a1d6-5887366187ac</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

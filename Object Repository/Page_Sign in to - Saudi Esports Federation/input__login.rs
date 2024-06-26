@@ -6,12 +6,12 @@
    <elementGuidId>10e801a0-49a2-4aab-8fee-1f31a1405eb2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='kc-login']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#kc-login</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='kc-login']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>aa4dd5f2-d659-4661-97d8-d3ee205b5b07</webElementGuid>
+      <webElementGuid>347bf5d6-693f-4b65-9aa5-62ce92c387ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>1b1f9aeb-7227-4473-9d2c-6d85e91a10f2</webElementGuid>
+      <webElementGuid>d30b7c42-0ea3-4497-ac4d-c544c40c3ceb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>pf-c-button pf-m-primary pf-m-block btn-lg login-btn</value>
-      <webElementGuid>e7c93a34-3a20-4afb-a1a5-eba0f18c0748</webElementGuid>
+      <webElementGuid>e18a6186-4813-49e2-bbbb-457b60c497d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>login</value>
-      <webElementGuid>055697ef-2507-4e87-81c7-4aae3ab607c0</webElementGuid>
+      <webElementGuid>a3bb33b0-4ba7-4246-9341-e22e783bbe54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>id</name>
       <type>Main</type>
       <value>kc-login</value>
-      <webElementGuid>7f62a36b-f86e-4453-a13c-5c9b40017271</webElementGuid>
+      <webElementGuid>085d305d-634d-442f-a1e6-4a5844389e20</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>c34dbc88-081c-41a9-8b82-566170dd76ff</webElementGuid>
+      <webElementGuid>1e54a860-c33c-4dd9-a020-0e9b76279c36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>increaseHistory()</value>
-      <webElementGuid>e8fbe670-c39e-4218-a20c-e884c44e4b2a</webElementGuid>
+      <webElementGuid>3adae97a-0a39-4b0b-8c76-897553e97d56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Log In</value>
-      <webElementGuid>1c99fda1-d858-4fab-ac4c-b7b5592fee4d</webElementGuid>
+      <webElementGuid>2b1fc5f5-45f3-482f-a8cf-511343ef935f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;kc-login&quot;)</value>
-      <webElementGuid>370f68da-dba2-4aa1-8d54-7ff8262fafe3</webElementGuid>
+      <webElementGuid>44dbd976-7024-4200-a93f-4c6796bc9cea</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='kc-login']</value>
-      <webElementGuid>ca9fee4f-968e-4f1e-8bd0-bf870e0793a2</webElementGuid>
+      <webElementGuid>fcab2e33-73aa-4259-9ef5-91539f2b2e1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='kc-form-login']/input[2]</value>
-      <webElementGuid>36bc1f60-136f-45c7-ad0c-eb81e55fa2a1</webElementGuid>
+      <webElementGuid>90285d76-dbcb-4c9a-8cb0-e71a9fdef60e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input[2]</value>
-      <webElementGuid>99efe793-a782-4713-9ed7-3863b942548b</webElementGuid>
+      <webElementGuid>52eb6caa-fe19-484a-8408-c7492dce580b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'login' and @id = 'kc-login' and @type = 'submit']</value>
-      <webElementGuid>576a9563-6b41-4d49-8d61-449d743675c9</webElementGuid>
+      <webElementGuid>2c1a43bd-1dec-4afe-81dd-e48b8945c39a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

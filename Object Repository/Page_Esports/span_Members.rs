@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Teams Management</name>
+   <name>span_Members</name>
    <tag></tag>
-   <elementGuidId>97ecc537-dc44-4f5a-8d09-f99f13fcadbd</elementGuidId>
+   <elementGuidId>585ff21e-28f2-4d18-b768-5cb36cde00bd</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,14 +11,14 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Clubs'])[1]/following::span[4]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Members Management'])[1]/following::span[4]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:text=&quot;Teams Management&quot;i</value>
+         <value>internal:text=&quot;Members&quot;s</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>f0c104fd-ab56-483b-8e88-8afd4c6470e5</webElementGuid>
+      <webElementGuid>e1bc6199-d6c8-46c5-b367-f01d853ace24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,15 +37,15 @@
       <name>class</name>
       <type>Main</type>
       <value>menu-item-text</value>
-      <webElementGuid>8553b4b0-3948-42f6-9574-7375c0c9a625</webElementGuid>
+      <webElementGuid>2eb565c4-f7fa-4a9e-8ea1-de15eb4c3628</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Teams Management </value>
-      <webElementGuid>e3d7a66b-ce72-4235-bb65-97c2635e32e4</webElementGuid>
+      <value> Members </value>
+      <webElementGuid>2e08e5a3-6602-4e27-b759-79ac5a25e78d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,62 +53,62 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;default-theme&quot;]/app-root[1]/app-auth-layout-lg[@class=&quot;default-theme ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container&quot;]/mat-sidenav[@class=&quot;mat-drawer mat-sidenav ng-tns-c30-0 ng-trigger ng-trigger-transform mat-drawer-side mat-drawer-opened ng-star-inserted&quot;]/div[@class=&quot;mat-drawer-inner-container ng-tns-c30-0&quot;]/app-side-menu-lg[@class=&quot;ng-tns-c30-0&quot;]/div[@class=&quot;side-menu-inner&quot;]/mat-nav-list[@class=&quot;mat-nav-list mat-list-base&quot;]/mat-list-item[@class=&quot;mat-list-item mat-focus-indicator ng-star-inserted&quot;]/span[@class=&quot;mat-list-item-content&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/span[@class=&quot;menu-item-text&quot;]</value>
-      <webElementGuid>1c0ebea3-8b47-4599-b018-2e1e50fac012</webElementGuid>
+      <webElementGuid>20919b8f-358d-47a2-bc87-0a7fe4f43e46</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clubs'])[1]/following::span[4]</value>
-      <webElementGuid>de42f374-0903-412f-b301-95cd161847fd</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Members Management'])[1]/following::span[4]</value>
+      <webElementGuid>449507ba-e708-4140-9481-2f449258283c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clubs Management'])[1]/following::span[8]</value>
-      <webElementGuid>246e55aa-a5c4-47de-8e77-502bf1e70312</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clans'])[1]/following::span[8]</value>
+      <webElementGuid>88ce9a3d-2fc7-46b2-96d3-746207f0d267</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Teams'])[1]/preceding::span[3]</value>
-      <webElementGuid>df158af5-3bae-4ae8-a747-33604b56ce61</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Management'])[1]/preceding::span[1]</value>
+      <webElementGuid>db70487d-f7f1-47b5-96a0-fd9043e093a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clans Management'])[1]/preceding::span[7]</value>
-      <webElementGuid>904b2488-0ec0-429b-8c39-56f34fe1cdaf</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/preceding::span[3]</value>
+      <webElementGuid>e6c3a3e7-ee49-4293-9996-a18210cb6f05</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Teams Management']/parent::*</value>
-      <webElementGuid>5ae70eca-7872-4f3c-a15c-cde9a1bfc24f</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Members']/parent::*</value>
+      <webElementGuid>d82ef933-024d-427a-a0a7-1f668feef952</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//mat-list-item[3]/span/div/span</value>
-      <webElementGuid>809b21b8-b37e-4584-9e8c-42e4fa92140b</webElementGuid>
+      <value>//mat-list-item[8]/span/div/span</value>
+      <webElementGuid>adc58a60-7784-4ff6-82a1-94848f3eca7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = ' Teams Management ' or . = ' Teams Management ')]</value>
-      <webElementGuid>568b2f7e-24fd-4eda-9863-41192706b0a2</webElementGuid>
+      <value>//span[(text() = ' Members ' or . = ' Members ')]</value>
+      <webElementGuid>12b31582-c99c-45fe-9e58-de6828a308fb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

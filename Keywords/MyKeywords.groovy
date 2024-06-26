@@ -19,7 +19,12 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable
 
 public class MyKeywords {
+<<<<<<< HEAD
 
+=======
+	
+	def name;
+>>>>>>> branch 'master' of https://github.com/MarwaYoussef1/KatalonDemo.git
 	@Keyword(keywordObject = "Browser")
 	def hello(){
 		println " Hello World... "
@@ -33,4 +38,17 @@ public class MyKeywords {
 
 		WebUI.click(findTestObject('Page_OrangeHRM/button_Login'))
 	}
+<<<<<<< HEAD
+=======
+	
+	def setName(String userName){
+		name=userName
+	}
+	
+	def String getName()
+	{
+		return name
+	}
+	
+>>>>>>> branch 'master' of https://github.com/MarwaYoussef1/KatalonDemo.git
 }

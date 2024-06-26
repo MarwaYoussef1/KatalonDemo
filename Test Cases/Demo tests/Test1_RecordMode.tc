@@ -5,4 +5,17 @@
    <tag>@sanity</tag>
    <comment></comment>
    <testCaseGuid>375ca652-5ec1-4f35-b1d7-472e3e07511d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bd05cd2e-ba5d-4d4e-86fd-adc6824d4d8d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>bd05cd2e-ba5d-4d4e-86fd-adc6824d4d8d</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
 </TestCaseEntity>

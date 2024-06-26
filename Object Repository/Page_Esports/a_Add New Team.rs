@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add New Team</name>
+   <tag></tag>
+   <elementGuidId>457553ac-1c22-4b87-8328-ac74a1c8ed67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.mat-focus-indicator.mat-button.mat-button-base.mat-accent.ng-star-inserted.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='My Teams'])[2]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;+ Add New Team&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f0d497ba-e8df-4467-a9be-d49b24965625</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>accent</value>
+      <webElementGuid>a6ad2ade-7d5d-469d-80e0-c855ea0dac2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-button mat-button-base mat-accent ng-star-inserted cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>91149fed-0121-470a-8bb2-1a388f536891</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>059d0a78-912e-47f6-b6a2-67bfde9f001c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/authnticate/teams/add</value>
+      <webElementGuid>41fc3b5f-9afe-40e1-a11f-61969c77e6ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+ Add New Team</value>
+      <webElementGuid>b6ff1f34-63e0-4074-a19f-a3e1e5bae64d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;default-theme&quot;]/app-root[1]/app-auth-layout-lg[@class=&quot;default-theme ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/app-teams[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;mangement-container&quot;]/app-my-teams[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page-container&quot;]/app-empty-list[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;notfound-container&quot;]/div[@class=&quot;notfound-content&quot;]/a[@class=&quot;mat-focus-indicator mat-button mat-button-base mat-accent ng-star-inserted cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>a6c0a411-66ca-4d99-8087-75f82edce3a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Teams'])[2]/following::a[1]</value>
+      <webElementGuid>975c1783-bbe1-4ce4-b10c-90dd10ea3309</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Archived Teams'])[1]/following::a[1]</value>
+      <webElementGuid>9a751e8f-9e5f-4c3e-807c-43bdf2c06cf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/authnticate/teams/add')]</value>
+      <webElementGuid>aeb174f3-8f65-4eee-9352-d5da9149c905</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-empty-list/div/div/a</value>
+      <webElementGuid>c870d432-1fb1-4506-9229-63c420201207</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/authnticate/teams/add' and (text() = '+ Add New Team' or . = '+ Add New Team')]</value>
+      <webElementGuid>3406368c-5519-4ada-af4d-b25ca3f33e0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

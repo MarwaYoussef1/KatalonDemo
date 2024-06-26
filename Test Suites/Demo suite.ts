@@ -17,18 +17,24 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Demo tests/Test1_RecordMode</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>bd05cd2e-ba5d-4d4e-86fd-adc6824d4d8d</variableId>
+      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>3f3c41ed-ce6b-47d0-97e0-21caf92ce440</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Demo tests/Test2_ManualMode</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>a72d70da-7726-4331-a631-731e4693cd17</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Demo tests/Test3_ScriptModeWithCustomKeyword</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
