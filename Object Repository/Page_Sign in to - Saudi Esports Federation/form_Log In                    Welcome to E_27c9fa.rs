@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>form</value>
-      <webElementGuid>25dfffe6-18bf-4053-a2ab-549b8edc18dd</webElementGuid>
+      <webElementGuid>659ae374-cdd4-47ca-a413-56a8351a6650</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>45902d44-35a5-473a-a7c1-01efe7ce6645</webElementGuid>
+      <webElementGuid>91114da3-dead-4ffa-98a0-c040d4fb3d88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>kc-form-login</value>
-      <webElementGuid>3706fd64-f935-40f9-819d-9ff4278838bc</webElementGuid>
+      <webElementGuid>1737eedc-7a11-4d00-a00e-9e785059213e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,15 +53,15 @@
       <name>onsubmit</name>
       <type>Main</type>
       <value>login.disabled = true; return true;</value>
-      <webElementGuid>b90e47c2-a247-4f94-b3f4-b64a263c9f78</webElementGuid>
+      <webElementGuid>c017cb55-26a9-4789-a717-441027f78da6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>action</name>
       <type>Main</type>
-      <value>https://qa.saudiesports.sa/auth/realms/cust_esports.com/login-actions/authenticate?session_code=gokHzOpPtb-lXibg5eZr__LE18biunnkLIyTWilrXyI&amp;execution=e5faece2-9e72-4a2d-9bb4-43f39dbaef01&amp;client_id=WEB&amp;tab_id=JEuxvePP2lg</value>
-      <webElementGuid>bc79ec3b-97f7-494a-a8f9-11765a5f8654</webElementGuid>
+      <value>https://uat.saudiesports.sa/auth/realms/cust_esports.com/login-actions/authenticate?session_code=J6TUKt0LUDbr_HewRR1FhvDHWtQfL_MBpCocmxiDsVg&amp;execution=f9b198c7-8967-449e-b422-cbae3e9db896&amp;client_id=WEB&amp;tab_id=o-u-kQSov1Y</value>
+      <webElementGuid>e27ef61c-cc3f-4b63-8a63-bed9be35beb8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>method</name>
       <type>Main</type>
       <value>post</value>
-      <webElementGuid>f3267edc-ff37-4ef7-8bb6-031e43ea8b5a</webElementGuid>
+      <webElementGuid>f11d743a-8058-43b3-8abd-69dc7955fc2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -147,7 +147,7 @@
 
                 
               </value>
-      <webElementGuid>34ad8077-af1a-48e4-a49a-8ac86c538a20</webElementGuid>
+      <webElementGuid>37a1d61b-838b-4d6c-bace-f1c962ebb4d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -155,7 +155,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;kc-form-login&quot;)</value>
-      <webElementGuid>65dc35f3-d6e5-4894-8f96-add616bdce0c</webElementGuid>
+      <webElementGuid>9ffbeba9-9435-4fbd-80cf-e10e790d133a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -163,7 +163,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//form[@id='kc-form-login']</value>
-      <webElementGuid>45e53614-67e2-440c-ab7e-e2df86615c3d</webElementGuid>
+      <webElementGuid>efe9f746-5524-416d-9bb1-8e0cb8f490dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -171,7 +171,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='kc-form-wrapper']/form</value>
-      <webElementGuid>4729514a-a990-4a1d-bdea-6729297041d5</webElementGuid>
+      <webElementGuid>0ee8df5c-0e44-4d9f-a65c-5106555b25d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -179,7 +179,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='عربي'])[1]/following::form[1]</value>
-      <webElementGuid>c703f73c-37c1-4325-b110-3ba74833f0b1</webElementGuid>
+      <webElementGuid>3294fe0f-d034-469c-ac3f-58ca4622cdef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -187,7 +187,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::form[1]</value>
-      <webElementGuid>df5b4aa7-b36f-4195-93a1-e277ab5b691e</webElementGuid>
+      <webElementGuid>ba96e6c2-90e1-4370-9187-3f7d03612910</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -195,7 +195,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form</value>
-      <webElementGuid>9858073e-8389-4d52-9521-30f4ada5565d</webElementGuid>
+      <webElementGuid>fe1735ad-2b3d-498a-8fae-c57fd78cb555</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -343,6 +343,6 @@
 
                 
               &quot;))]</value>
-      <webElementGuid>09669415-af52-4891-aef1-7e309917691d</webElementGuid>
+      <webElementGuid>ff60eb7e-ace2-425c-bac0-d1867c7eb21b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

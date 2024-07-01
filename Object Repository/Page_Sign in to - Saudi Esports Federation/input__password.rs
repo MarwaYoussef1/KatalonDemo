@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>20212234-505f-4ca8-99a2-d6808547d316</webElementGuid>
+      <webElementGuid>12cf5f97-8824-42ac-a499-e70dcc5c33e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>607827cf-05a3-40cc-9b76-a68792f3bc76</webElementGuid>
+      <webElementGuid>77003918-d99a-431e-ad1d-e08df123919e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>*********</value>
-      <webElementGuid>4fa88b17-3ff8-4729-84c6-83a4c033ce03</webElementGuid>
+      <webElementGuid>19d60878-1762-4786-90b5-d46cd46a1400</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>1f716edd-9840-4e80-a2d7-83a235bf81cf</webElementGuid>
+      <webElementGuid>b274711a-dede-4d34-9269-1d40d317491b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>pf-c-form-control login-input</value>
-      <webElementGuid>4fba85e3-89bd-465c-806d-8f852950055d</webElementGuid>
+      <webElementGuid>50f7f768-5486-4329-a509-d512e399688a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>name</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>a9a7b084-00f6-4e27-982e-b40db137fc8d</webElementGuid>
+      <webElementGuid>a4941bdf-be2d-4d4c-bf52-01a8a7590fae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>227ef909-63d6-4934-a681-636c15549d6d</webElementGuid>
+      <webElementGuid>5fbbfd47-c3b8-4a25-b9b8-67173e00e7e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>onchange</name>
       <type>Main</type>
       <value>disableLoginButton();</value>
-      <webElementGuid>f42cddf9-baea-4981-a67f-53c132c754b1</webElementGuid>
+      <webElementGuid>d3082f84-e7e3-414e-8da5-85c5a2807b68</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>onkeypress</name>
       <type>Main</type>
       <value>this.onchange();</value>
-      <webElementGuid>0923fc8c-eb09-4793-9946-5c08621d4c37</webElementGuid>
+      <webElementGuid>e2b08d06-05d4-4ab2-a0f1-91b6be76091e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>onpaste</name>
       <type>Main</type>
       <value>this.onchange();</value>
-      <webElementGuid>6de16444-dba2-4c50-ae15-2ebbab2c4a3f</webElementGuid>
+      <webElementGuid>ab35057c-bd95-49dc-9c51-50b39c52d470</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>oninput</name>
       <type>Main</type>
       <value>this.onchange();</value>
-      <webElementGuid>46d28a73-dd60-4673-bb3f-2590ca78a2b2</webElementGuid>
+      <webElementGuid>6525cf17-3903-43c6-9402-58eff6ce7bec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>802b59bd-6d55-45a0-817b-78084fc252e5</webElementGuid>
+      <webElementGuid>3558c1fd-6ea5-4102-b932-94ea5f41aa4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;password&quot;)</value>
-      <webElementGuid>4088ef47-654f-48c6-8c63-20e86cbf8c92</webElementGuid>
+      <webElementGuid>aca004d3-827c-45dd-ae85-40573ba182a4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='password']</value>
-      <webElementGuid>ccc0ab80-6933-48b2-bccb-c48101ba9db7</webElementGuid>
+      <webElementGuid>30bc70f5-29c9-4c4c-83c5-c35b1cc76b7b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='kc-form-login']/div[5]/input</value>
-      <webElementGuid>6fd712ab-d885-4298-8e80-d5a265d6e42c</webElementGuid>
+      <webElementGuid>d81752ef-22f4-4e51-abd4-7916a5e3c382</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/input</value>
-      <webElementGuid>053e80c3-888e-446e-ab34-caad6d321285</webElementGuid>
+      <webElementGuid>d8d1f21b-a15f-443d-b606-8b6a92be9ed8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,6 +157,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'password' and @placeholder = '*********' and @name = 'password' and @type = 'password']</value>
-      <webElementGuid>a5eaedf3-a2e5-40d0-8b3d-a67af0b7941c</webElementGuid>
+      <webElementGuid>71e14b58-a5a6-4d23-957d-0dcf91a40340</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

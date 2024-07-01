@@ -18,28 +18,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
 import internal.GlobalVariable
 
-public class MyKeywords {
-
-	def name;
-	@Keyword(keywordObject = "Browser")
-	def hello(){
-		println " Hello World... "
-	}
-
-	@Keyword(keywordObject = "Browser")
-	def loginToOrange(String userName,String password){
-		WebUI.setText(findTestObject('Page_OrangeHRM/input_Username_username'), userName)
-
-		WebUI.setText(findTestObject('Page_OrangeHRM/input_Password_password'), password)
-
-		WebUI.click(findTestObject('Page_OrangeHRM/button_Login'))
-	}
-
-	def setName(String userName){
-		name=userName
-	}
-
-	def String getName() {
-		return name
+public class UtilitesKeywords {
+	
+	@Keyword(keywordObject = "Utilites")
+	def GetRandomNumber(){
+		println " getRandomNumber... "
 	}
 }

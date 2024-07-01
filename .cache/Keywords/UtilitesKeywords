@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "D39446086BC3CBF879715EC5977B8E27",
+  "keywordClasses": [
+    {
+      "name": "UtilitesKeywords",
+      "keywordMethods": [
+        {
+          "name": "GetRandomNumber",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
