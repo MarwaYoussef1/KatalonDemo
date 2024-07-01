@@ -23,7 +23,7 @@ WebUI.navigateToUrl('https://qa.saudiesports.sa/')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/Page_Esports/button_Login'))
+WebUI.click(findTestObject('Page_Esports/button_Login'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Sign in to - Saudi Esports Federation/input__email'), 'admin@saudiesports.sa')
 
