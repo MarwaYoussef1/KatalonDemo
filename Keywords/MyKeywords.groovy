@@ -44,16 +44,5 @@ public class MyKeywords {
 	def String getName() {
 		return name
 	}
-<<<<<<< HEAD
 
-=======
-<<<<<<< HEAD
-=======
->>>>>>> branch 'master' of https://github.com/MarwaYoussef1/KatalonDemo.git
-	
-<<<<<<< HEAD
-=======
->>>>>>> branch 'master' of https://github.com/MarwaYoussef1/KatalonDemo.git
->>>>>>> branch 'master' of https://github.com/MarwaYoussef1/KatalonDemo
->>>>>>> branch 'master' of https://github.com/MarwaYoussef1/KatalonDemo.git
 }
