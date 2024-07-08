@@ -1,0 +1,35 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+DemoLogin,Windows - Chrome 124.0.0.0,,,26-06-2024 14:36:05,26-06-2024 14:37:57,1m - 52.537s,PASSED
+,,,,,,,
+Test Cases/Demo tests/Test1_RecordMode,Windows - Chrome 124.0.0.0,This is record test,@sanity,26-06-2024 14:36:05,26-06-2024 14:37:14,1m - 8.679s,PASSED
+Start listener action : sampleBeforeTestCase,Windows - Chrome 124.0.0.0,,,26-06-2024 14:36:05,26-06-2024 14:36:05,0.009s,PASSED
+"openBrowser("""")",Windows - Chrome 124.0.0.0,,,26-06-2024 14:36:06,26-06-2024 14:36:30,24.551s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Windows - Chrome 124.0.0.0,,,26-06-2024 14:36:30,26-06-2024 14:36:31,0.744s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/a_Make Appointment""))",Windows - Chrome 124.0.0.0,,,26-06-2024 14:36:31,26-06-2024 14:36:33,2.236s,PASSED
+"setText(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_Username_username""), username)",Windows - Chrome 124.0.0.0,,,26-06-2024 14:36:33,26-06-2024 14:36:38,4.723s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_Password_password""), ""9NLz+4tGZcQ="")",Windows - Chrome 124.0.0.0,,,26-06-2024 14:36:38,26-06-2024 14:36:40,2.638s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/div_Demo account_form-group""))",Windows - Chrome 124.0.0.0,,,26-06-2024 14:36:40,26-06-2024 14:36:42,2.019s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_Password_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",Windows - Chrome 124.0.0.0,,,26-06-2024 14:36:42,26-06-2024 14:36:45,2.714s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/button_Login""))",Windows - Chrome 124.0.0.0,,,26-06-2024 14:36:45,26-06-2024 14:36:47,2.219s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), ""Hongkong CURA Healthcare Center"", true)",Windows - Chrome 124.0.0.0,,,26-06-2024 14:36:47,26-06-2024 14:36:58,10.512s,PASSED
+waitForPageLoad(5),Windows - Chrome 124.0.0.0,,,26-06-2024 14:36:58,26-06-2024 14:36:58,0.610s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f""))",Windows - Chrome 124.0.0.0,,,26-06-2024 14:36:58,26-06-2024 14:37:01,2.051s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/span_Visit Date (Required)_glyphicon glyphi_cada34""))",Windows - Chrome 124.0.0.0,,,26-06-2024 14:37:01,26-06-2024 14:37:03,2.028s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/td_26""))",Windows - Chrome 124.0.0.0,,,26-06-2024 14:37:03,26-06-2024 14:37:05,2.031s,PASSED
+"setText(findTestObject(""Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment""), ""connet"")",Windows - Chrome 124.0.0.0,,,26-06-2024 14:37:05,26-06-2024 14:37:09,4.749s,PASSED
+"rightClick(findTestObject(""Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment""))",Windows - Chrome 124.0.0.0,,,26-06-2024 14:37:09,26-06-2024 14:37:12,3.105s,PASSED
+closeBrowser(),Windows - Chrome 124.0.0.0,,,26-06-2024 14:37:12,26-06-2024 14:37:14,1.348s,PASSED
+Start listener action : sampleAfterTestCase,Windows - Chrome 124.0.0.0,,,26-06-2024 14:37:14,26-06-2024 14:37:14,0.008s,PASSED
+,,,,,,,
+Test Cases/Demo tests/Test7_callableTestLogin,Windows - Chrome 124.0.0.0,,,26-06-2024 14:37:14,26-06-2024 14:37:57,43.457s,PASSED
+Start listener action : sampleBeforeTestCase,Windows - Chrome 124.0.0.0,,,26-06-2024 14:37:14,26-06-2024 14:37:14,0.001s,PASSED
+"openBrowser("""")",Windows - Chrome 124.0.0.0,,,26-06-2024 14:37:14,26-06-2024 14:37:36,21.917s,PASSED
+"navigateToUrl(""https://qa.saudiesports.sa/"")",Windows - Chrome 124.0.0.0,,,26-06-2024 14:37:36,26-06-2024 14:37:38,2.662s,PASSED
+maximizeWindow(),Windows - Chrome 124.0.0.0,,,26-06-2024 14:37:38,26-06-2024 14:37:39,0.576s,PASSED
+"click(findTestObject(""Page_Esports/button_Login""))",Windows - Chrome 124.0.0.0,,,26-06-2024 14:37:39,26-06-2024 14:37:43,4.248s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in to - Saudi Esports Federation/input__email""), ""admin@saudiesports.sa"")",Windows - Chrome 124.0.0.0,,,26-06-2024 14:37:43,26-06-2024 14:37:48,4.373s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign in to - Saudi Esports Federation/input__password""), ""9NLz+4tGZcQ="")",Windows - Chrome 124.0.0.0,,,26-06-2024 14:37:48,26-06-2024 14:37:50,2.506s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in to - Saudi Esports Federation/form_Log In                    Welcome to E_27c9fa""))",Windows - Chrome 124.0.0.0,,,26-06-2024 14:37:50,26-06-2024 14:37:52,2.101s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign in to - Saudi Esports Federation/input__password""), ""HwXnxaZD17M="")",Windows - Chrome 124.0.0.0,,,26-06-2024 14:37:52,26-06-2024 14:37:55,2.420s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in to - Saudi Esports Federation/input__login""))",Windows - Chrome 124.0.0.0,,,26-06-2024 14:37:55,26-06-2024 14:37:57,2.576s,PASSED
+Start listener action : sampleAfterTestCase,Windows - Chrome 124.0.0.0,,,26-06-2024 14:37:57,26-06-2024 14:37:57,0.001s,PASSED

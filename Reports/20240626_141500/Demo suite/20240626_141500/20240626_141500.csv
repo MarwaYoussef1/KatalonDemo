@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Demo suite,,,,26-06-2024 14:15:05,26-06-2024 14:15:12,7.413s,FAILED
+,,,,,,,
+Test Cases/Demo tests/Test8_DataDriven,,,,26-06-2024 14:15:08,26-06-2024 14:15:09,1.273s,FAILED
+Start listener action : sampleBeforeTestCase,,,,26-06-2024 14:15:08,26-06-2024 14:15:08,0.000s,PASSED
+"openBrowser("""")",,,,26-06-2024 14:15:08,26-06-2024 14:15:09,1.243s,FAILED
+Start listener action : sampleAfterTestCase,,,,26-06-2024 14:15:09,26-06-2024 14:15:09,0.002s,PASSED
+,,,,,,,
+Test Cases/Demo tests/Test8_DataDriven,,,,26-06-2024 14:15:10,26-06-2024 14:15:12,1.891s,FAILED
+Start listener action : sampleBeforeTestCase,,,,26-06-2024 14:15:10,26-06-2024 14:15:10,0.000s,PASSED
+"openBrowser("""")",,,,26-06-2024 14:15:10,26-06-2024 14:15:12,1.871s,FAILED
+Start listener action : sampleAfterTestCase,,,,26-06-2024 14:15:12,26-06-2024 14:15:12,0.001s,PASSED

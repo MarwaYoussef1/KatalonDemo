@@ -1,0 +1,3 @@
+{"testCaseName":"Test Cases/Demo tests/Test1_RecordMode","testCaseId":"Test Cases/Demo tests/Test1_RecordMode","iterationVariableName":""}
+{"testCaseName":"Test Cases/Demo tests/Test8_DataDriven - Iteration 1","testCaseId":"Test Cases/Demo tests/Test8_DataDriven","iterationVariableName":"","bindedValues":{"password":"\u0027RAIVpflpDOg\u003d\u0027","username":"\u0027admin@yourstore.com\u0027"}}
+{"testCaseName":"Test Cases/Demo tests/Test8_DataDriven - Iteration 2","testCaseId":"Test Cases/Demo tests/Test8_DataDriven","iterationVariableName":"","bindedValues":{"password":"\u0027RAIVpflpDOg\u003d\u0027","username":"\u0027admin@yourstore.com\u0027"}}

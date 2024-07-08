@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="DemoLogin" time="0.892" tests="1" failures="0" errors="0">
+   <testsuite name="DemoLogin" tests="1" failures="0" errors="0" time="0.892" skipped="0" timestamp="26-06-2024T14:16:16" hostname="marwa - 192.168.1.4" id="Test Suites/DemoLogin">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\work\\STC\\Automation\\katalon\\katalon_Course\\TrainingWebProject\\Reports\\20240626_141611\\DemoLogin\\20240626_141611"/>
+         <property name="logFiles" value="C:\\work\\STC\\Automation\\katalon\\katalon_Course\\TrainingWebProject\\Reports\\20240626_141611\\DemoLogin\\20240626_141611\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="marwa - 192.168.1.4"/>
+         <property name="hostAddress" value="192.168.1.4"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+      </properties>
+      <testcase name="Test Cases/Demo tests/Test7_callableTestLogin" time="0.684" classname="Test Cases/Demo tests/Test7_callableTestLogin" status="INCOMPLETE">
+         <system-out><![CDATA[26-06-2024T14:16:16 - [TEST_CASE][INCOMPLETE] - Test Cases/Demo tests/Test7_callableTestLogin: null
+
+26-06-2024T14:16:16 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+26-06-2024T14:16:16 - [TEST_STEP][PASSED] - println("i am in before test case in test listener"): null
+
+26-06-2024T14:16:16 - [TEST_STEP][INCOMPLETE] - openBrowser(""): Action delay is set to 0 milliseconds
+
+26-06-2024T14:16:16 - [MESSAGE][INFO] - User set preference: ['os', 'windows']
+
+26-06-2024T14:16:16 - [MESSAGE][INFO] - User set preference: ['browserName', 'chrome']
+
+26-06-2024T14:16:16 - [MESSAGE][INFO] - User set preference: ['browserVersion', '124']
+
+26-06-2024T14:16:16 - [MESSAGE][INFO] - User set preference: ['katalon:option', '{organizationId=1342275, tunnelId=, usingTunnel=false}']
+
+26-06-2024T14:16:16 - [MESSAGE][INFO] - Connecting to remote web server 'testcloud.katalon.com/hub' with type 'Selenium'
+
+26-06-2024T14:16:17 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds]]></system-out>
+         <system-err><![CDATA[26-06-2024T14:16:16 - [TEST_CASE][INCOMPLETE] - Test Cases/Demo tests/Test7_callableTestLogin: null]]></system-err>
+      </testcase>
+      <system-out><![CDATA[26-06-2024T14:16:16 - [TEST_SUITE][INCOMPLETE] - DemoLogin: null]]></system-out>
+      <system-err><![CDATA[26-06-2024T14:16:16 - [TEST_SUITE][INCOMPLETE] - DemoLogin: null]]></system-err>
+   </testsuite>
+</testsuites>

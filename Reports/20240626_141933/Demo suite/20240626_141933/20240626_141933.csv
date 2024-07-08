@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Demo suite,,,,26-06-2024 14:19:39,26-06-2024 14:19:48,9.269s,FAILED
+,,,,,,,
+Test Cases/Demo tests/Test1_RecordMode,,This is record test,@sanity,26-06-2024 14:19:41,26-06-2024 14:19:43,1.247s,FAILED
+Start listener action : sampleBeforeTestCase,,,,26-06-2024 14:19:41,26-06-2024 14:19:41,0.001s,PASSED
+"openBrowser("""")",,,,26-06-2024 14:19:41,26-06-2024 14:19:43,1.219s,FAILED
+Start listener action : sampleAfterTestCase,,,,26-06-2024 14:19:43,26-06-2024 14:19:43,0.001s,PASSED
+,,,,,,,
+Test Cases/Demo tests/Test8_DataDriven,,,,26-06-2024 14:19:44,26-06-2024 14:19:45,1.293s,FAILED
+Start listener action : sampleBeforeTestCase,,,,26-06-2024 14:19:44,26-06-2024 14:19:44,0.001s,PASSED
+"openBrowser("""")",,,,26-06-2024 14:19:44,26-06-2024 14:19:45,1.273s,FAILED
+Start listener action : sampleAfterTestCase,,,,26-06-2024 14:19:45,26-06-2024 14:19:45,0.001s,PASSED
+,,,,,,,
+Test Cases/Demo tests/Test8_DataDriven,,,,26-06-2024 14:19:47,26-06-2024 14:19:48,1.332s,FAILED
+Start listener action : sampleBeforeTestCase,,,,26-06-2024 14:19:47,26-06-2024 14:19:47,0.001s,PASSED
+"openBrowser("""")",,,,26-06-2024 14:19:47,26-06-2024 14:19:48,1.317s,FAILED
+Start listener action : sampleAfterTestCase,,,,26-06-2024 14:19:48,26-06-2024 14:19:48,0.000s,PASSED

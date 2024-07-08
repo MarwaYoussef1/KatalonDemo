@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>a.mat-focus-indicator.mat-button.mat-button-base.mat-accent.ng-star-inserted.cdk-focused.cdk-mouse-focused</value>
+         <value>a.mat-focus-indicator.mb-3.mat-stroked-button.mat-button-base.mat-accent.ng-star-inserted.cdk-focused.cdk-mouse-focused</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='My Teams'])[2]/following::a[1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Teams Management'])[1]/following::a[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f0d497ba-e8df-4467-a9be-d49b24965625</webElementGuid>
+      <webElementGuid>0b6517bc-3b49-4c56-ad1c-ec4954f28c7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,15 +37,15 @@
       <name>color</name>
       <type>Main</type>
       <value>accent</value>
-      <webElementGuid>a6ad2ade-7d5d-469d-80e0-c855ea0dac2b</webElementGuid>
+      <webElementGuid>6c96a4bb-0964-4f4d-8f42-c4ab7dabfd61</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mat-focus-indicator mat-button mat-button-base mat-accent ng-star-inserted cdk-focused cdk-mouse-focused</value>
-      <webElementGuid>91149fed-0121-470a-8bb2-1a388f536891</webElementGuid>
+      <value>mat-focus-indicator mb-3 mat-stroked-button mat-button-base mat-accent ng-star-inserted cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>f7f0384b-1dbb-41bc-8508-8aeef8a45fce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>059d0a78-912e-47f6-b6a2-67bfde9f001c</webElementGuid>
+      <webElementGuid>b452d1b6-bb17-43ab-89b9-9d1478f5f374</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,39 +61,47 @@
       <name>href</name>
       <type>Main</type>
       <value>/authnticate/teams/add</value>
-      <webElementGuid>41fc3b5f-9afe-40e1-a11f-61969c77e6ea</webElementGuid>
+      <webElementGuid>3e2fe2c4-2abc-4d42-b72d-20268aed33e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>+ Add New Team</value>
-      <webElementGuid>b6ff1f34-63e0-4074-a19f-a3e1e5bae64d</webElementGuid>
+      <value> + Add New Team </value>
+      <webElementGuid>75ba10a3-f720-4666-8277-72826fde3be7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;default-theme&quot;]/app-root[1]/app-auth-layout-lg[@class=&quot;default-theme ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/app-teams[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;mangement-container&quot;]/app-my-teams[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page-container&quot;]/app-empty-list[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;notfound-container&quot;]/div[@class=&quot;notfound-content&quot;]/a[@class=&quot;mat-focus-indicator mat-button mat-button-base mat-accent ng-star-inserted cdk-focused cdk-mouse-focused&quot;]</value>
-      <webElementGuid>a6c0a411-66ca-4d99-8087-75f82edce3a0</webElementGuid>
+      <value>/html[1]/body[@class=&quot;default-theme&quot;]/app-root[1]/app-auth-layout-lg[@class=&quot;default-theme ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/app-teams[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;mangement-container&quot;]/div[@class=&quot;page-header&quot;]/a[@class=&quot;mat-focus-indicator mb-3 mat-stroked-button mat-button-base mat-accent ng-star-inserted cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>f14a730c-6f4b-4f86-a540-c3a6232ac4b0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Teams'])[2]/following::a[1]</value>
-      <webElementGuid>975c1783-bbe1-4ce4-b10c-90dd10ea3309</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Teams Management'])[1]/following::a[1]</value>
+      <webElementGuid>47fed962-adbb-45fe-b058-c7bed16e6227</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Archived Teams'])[1]/following::a[1]</value>
-      <webElementGuid>9a751e8f-9e5f-4c3e-807c-43bdf2c06cf2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log out'])[1]/following::a[1]</value>
+      <webElementGuid>e4948876-d978-4de0-bfeb-f8c6b741d9be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discover teams'])[1]/preceding::a[1]</value>
+      <webElementGuid>f2fe3373-3708-446d-89fc-0e339551eb4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,22 +109,22 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/authnticate/teams/add')]</value>
-      <webElementGuid>aeb174f3-8f65-4eee-9352-d5da9149c905</webElementGuid>
+      <webElementGuid>381e8dbb-bb0d-49bc-a24c-df39f5a98bba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//app-empty-list/div/div/a</value>
-      <webElementGuid>c870d432-1fb1-4506-9229-63c420201207</webElementGuid>
+      <value>//app-teams/section/div/a</value>
+      <webElementGuid>1cabe6ce-e7fb-4e3f-85a8-5ca858a77c28</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/authnticate/teams/add' and (text() = '+ Add New Team' or . = '+ Add New Team')]</value>
-      <webElementGuid>3406368c-5519-4ada-af4d-b25ca3f33e0e</webElementGuid>
+      <value>//a[@href = '/authnticate/teams/add' and (text() = ' + Add New Team ' or . = ' + Add New Team ')]</value>
+      <webElementGuid>3f69d2f1-d21d-44be-aacf-65319461ab78</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -21,8 +21,6 @@ import internal.GlobalVariable
 public class MyKeywords {
 
 
-
-
 	def name;
 	
 	@Keyword(keywordObject = "Browser")
@@ -39,7 +37,6 @@ public class MyKeywords {
 		WebUI.click(findTestObject('Page_OrangeHRM/button_Login'))
 	}
 
-
 	def setName(String userName){
 		name=userName
 	}
@@ -47,6 +44,16 @@ public class MyKeywords {
 	def String getName() {
 		return name
 	}
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> branch 'master' of https://github.com/MarwaYoussef1/KatalonDemo.git
 	
+<<<<<<< HEAD
+=======
+>>>>>>> branch 'master' of https://github.com/MarwaYoussef1/KatalonDemo.git
+>>>>>>> branch 'master' of https://github.com/MarwaYoussef1/KatalonDemo
+>>>>>>> branch 'master' of https://github.com/MarwaYoussef1/KatalonDemo.git
 }

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="DemoLogin" time="112.537" tests="2" failures="0" errors="0">
+   <testsuite name="DemoLogin" tests="2" failures="0" errors="0" time="112.537" skipped="0" timestamp="26-06-2024T14:36:05" hostname="marwa - 192.168.1.4" id="Test Suites/DemoLogin">
+      <properties>
+         <property name="deviceName"/>
+         <property name="devicePlatform" value="WINDOWS"/>
+         <property name="logFolder" value="C:\\work\\STC\\Automation\\katalon\\katalon_Course\\TrainingWebProject\\Reports\\20240626_143559\\DemoLogin\\20240626_143559"/>
+         <property name="logFiles" value="C:\\work\\STC\\Automation\\katalon\\katalon_Course\\TrainingWebProject\\Reports\\20240626_143559\\DemoLogin\\20240626_143559\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="marwa - 192.168.1.4"/>
+         <property name="remoteDriverUrl" value="testcloud.katalon.com/hub"/>
+         <property name="desiredCapabilities" value="{&#xa;  &quot;timeouts&quot;: {&#xa;    &quot;implicit&quot;: 0,&#xa;    &quot;pageLoad&quot;: 300000,&#xa;    &quot;script&quot;: 30000&#xa;  },&#xa;  &quot;se:cdpEnabled&quot;: false,&#xa;  &quot;platform&quot;: &quot;WINDOWS&quot;,&#xa;  &quot;goog:chromeOptions&quot;: {&#xa;    &quot;debuggerAddress&quot;: &quot;localhost:9225&quot;&#xa;  },&#xa;  &quot;webauthn:extension:credBlob&quot;: true,&#xa;  &quot;acceptInsecureCerts&quot;: false,&#xa;  &quot;browserVersion&quot;: &quot;124.0.0.0&quot;,&#xa;  &quot;fedcm:accounts&quot;: true,&#xa;  &quot;kt:requestId&quot;: &quot;84f06f15-0b72-41fc-a50d-9a7f7d1ef158&quot;,&#xa;  &quot;browserName&quot;: &quot;chrome&quot;,&#xa;  &quot;javascriptEnabled&quot;: true,&#xa;  &quot;katalon:option&quot;: {&#xa;    &quot;userId&quot;: 1386183,&#xa;    &quot;organizationId&quot;: &quot;1342275&quot;,&#xa;    &quot;runFromTestCloud&quot;: true,&#xa;    &quot;usingTunnel&quot;: false&#xa;  },&#xa;  &quot;platformName&quot;: &quot;WINDOWS&quot;,&#xa;  &quot;setWindowRect&quot;: true,&#xa;  &quot;webauthn:extension:largeBlob&quot;: true,&#xa;  &quot;networkConnectionEnabled&quot;: false,&#xa;  &quot;chrome&quot;: {&#xa;    &quot;chromedriverVersion&quot;: &quot;124.0.6367.91 (51df0e5e17a8b0a4f281c1665dbd1b8a0c6b46af-refs/branch-heads/6367@{#984})&quot;,&#xa;    &quot;userDataDir&quot;: &quot;C:\\Program Files (x86)\\scoped_dir5604_1871392529&quot;&#xa;  },&#xa;  &quot;kt:rid&quot;: &quot;84f06f15-0b72-41fc-a50d-9a7f7d1ef158&quot;,&#xa;  &quot;pageLoadStrategy&quot;: &quot;normal&quot;,&#xa;  &quot;unhandledPromptBehavior&quot;: &quot;dismiss and notify&quot;,&#xa;  &quot;strictFileInteractability&quot;: false,&#xa;  &quot;***:loadExtension&quot;: [&#xa;    &quot;https://prod-magicleap-user-files-us-east-1-v1.s3.amazonaws.com/extensions/orgId-691279/SmartWait.zip&quot;&#xa;  ],&#xa;  &quot;se:bidiEnabled&quot;: false,&#xa;  &quot;proxy&quot;: {&#xa;    &quot;proxyType&quot;: &quot;UNSPECIFIED&quot;,&#xa;    &quot;autodetect&quot;: false&#xa;  },&#xa;  &quot;webauthn:extension:minPinLength&quot;: true,&#xa;  &quot;webauthn:extension:prf&quot;: true,&#xa;  &quot;webauthn:virtualAuthenticators&quot;: true&#xa;}"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="remoteOS" value="Windows"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+         <property name="browser" value="Chrome 124.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.4"/>
+         <property name="sessionId" value="9e98f41dac2b1efbd7d98f5b01e6d115"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Demo tests/Test1_RecordMode" time="68.679" classname="Test Cases/Demo tests/Test1_RecordMode" status="PASSED">
+         <system-out><![CDATA[26-06-2024T14:36:05 - [TEST_CASE][PASSED] - Test Cases/Demo tests/Test1_RecordMode: Test Cases/Demo tests/Test1_RecordMode
+
+26-06-2024T14:36:05 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+26-06-2024T14:36:05 - [TEST_STEP][PASSED] - println("i am in before test case in test listener"): null
+
+26-06-2024T14:36:06 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+26-06-2024T14:36:06 - [MESSAGE][INFO] - User set preference: ['os', 'windows']
+
+26-06-2024T14:36:06 - [MESSAGE][INFO] - User set preference: ['browserName', 'chrome']
+
+26-06-2024T14:36:06 - [MESSAGE][INFO] - User set preference: ['browserVersion', '124']
+
+26-06-2024T14:36:06 - [MESSAGE][INFO] - User set preference: ['katalon:option', '{organizationId=1342275, tunnelId=, usingTunnel=false}']
+
+26-06-2024T14:36:06 - [MESSAGE][INFO] - Connecting to remote web server 'testcloud.katalon.com/hub' with type 'Selenium'
+
+26-06-2024T14:36:07 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+26-06-2024T14:36:30 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+26-06-2024T14:36:30 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon-demo-cura.herokuapp.com/"): Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+26-06-2024T14:36:31 - [MESSAGE][PASSED] - Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+26-06-2024T14:36:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_Make Appointment")): Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+26-06-2024T14:36:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+26-06-2024T14:36:33 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_CURA Healthcare Service/input_Username_username"), username): Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Username_username'
+
+26-06-2024T14:36:38 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Username_username'
+
+26-06-2024T14:36:38 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_CURA Healthcare Service/input_Password_password"), "9NLz+4tGZcQ="): Text ****** has been set on object 'Object Repository/Page_CURA Healthcare Service/input_Password_password'
+
+26-06-2024T14:36:40 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_CURA Healthcare Service/input_Password_password'
+
+26-06-2024T14:36:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/div_Demo account_form-group")): Object: 'Object Repository/Page_CURA Healthcare Service/div_Demo account_form-group' is clicked on
+
+26-06-2024T14:36:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/div_Demo account_form-group' is clicked on
+
+26-06-2024T14:36:42 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_CURA Healthcare Service/input_Password_password"), "g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"): Text ****** has been set on object 'Object Repository/Page_CURA Healthcare Service/input_Password_password'
+
+26-06-2024T14:36:45 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_CURA Healthcare Service/input_Password_password'
+
+26-06-2024T14:36:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/button_Login")): Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+26-06-2024T14:36:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+26-06-2024T14:36:47 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107"), "Hongkong CURA Healthcare Center", true): All options with value 'Hongkong CURA Healthcare Center' are selected in object 'Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'  using regular expression
+
+26-06-2024T14:36:58 - [MESSAGE][PASSED] - All options with value 'Hongkong CURA Healthcare Center' are selected in object 'Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'  using regular expression
+
+26-06-2024T14:36:58 - [TEST_STEP][PASSED] - waitForPageLoad(5): Wait for page load successfully
+
+26-06-2024T14:36:58 - [MESSAGE][PASSED] - Wait for page load successfully
+
+26-06-2024T14:36:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f")): Object: 'Object Repository/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f' is clicked on
+
+26-06-2024T14:37:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f' is clicked on
+
+26-06-2024T14:37:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/span_Visit Date (Required)_glyphicon glyphi_cada34")): Object: 'Object Repository/Page_CURA Healthcare Service/span_Visit Date (Required)_glyphicon glyphi_cada34' is clicked on
+
+26-06-2024T14:37:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/span_Visit Date (Required)_glyphicon glyphi_cada34' is clicked on
+
+26-06-2024T14:37:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/td_26")): Object: 'Object Repository/Page_CURA Healthcare Service/td_26' is clicked on
+
+26-06-2024T14:37:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/td_26' is clicked on
+
+26-06-2024T14:37:05 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment"), "connet"): Text 'connet' is set on object 'Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment'
+
+26-06-2024T14:37:09 - [MESSAGE][PASSED] - Text 'connet' is set on object 'Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment'
+
+26-06-2024T14:37:09 - [TEST_STEP][PASSED] - rightClick(findTestObject("Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment")): Object: 'Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment' is right clicked on
+
+26-06-2024T14:37:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment' is right clicked on
+
+26-06-2024T14:37:12 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+26-06-2024T14:37:14 - [MESSAGE][PASSED] - Browser is closed
+
+26-06-2024T14:37:14 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+26-06-2024T14:37:14 - [TEST_STEP][PASSED] - println("i am in after test case in test listener"): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Demo tests/Test7_callableTestLogin" time="43.457" classname="Test Cases/Demo tests/Test7_callableTestLogin" status="PASSED">
+         <system-out><![CDATA[26-06-2024T14:37:14 - [TEST_CASE][PASSED] - Test Cases/Demo tests/Test7_callableTestLogin: Test Cases/Demo tests/Test7_callableTestLogin
+
+26-06-2024T14:37:14 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+26-06-2024T14:37:14 - [TEST_STEP][PASSED] - println("i am in before test case in test listener"): null
+
+26-06-2024T14:37:14 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+26-06-2024T14:37:14 - [MESSAGE][INFO] - User set preference: ['os', 'windows']
+
+26-06-2024T14:37:14 - [MESSAGE][INFO] - User set preference: ['browserName', 'chrome']
+
+26-06-2024T14:37:14 - [MESSAGE][INFO] - User set preference: ['browserVersion', '124']
+
+26-06-2024T14:37:14 - [MESSAGE][INFO] - User set preference: ['katalon:option', '{organizationId=1342275, tunnelId=, usingTunnel=false}']
+
+26-06-2024T14:37:14 - [MESSAGE][INFO] - Connecting to remote web server 'testcloud.katalon.com/hub' with type 'Selenium'
+
+26-06-2024T14:37:14 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+26-06-2024T14:37:36 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+26-06-2024T14:37:36 - [TEST_STEP][PASSED] - navigateToUrl("https://qa.saudiesports.sa/"): Navigate to 'https://qa.saudiesports.sa/' successfully
+
+26-06-2024T14:37:38 - [MESSAGE][PASSED] - Navigate to 'https://qa.saudiesports.sa/' successfully
+
+26-06-2024T14:37:38 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+26-06-2024T14:37:39 - [MESSAGE][PASSED] - Current window maximized
+
+26-06-2024T14:37:39 - [TEST_STEP][PASSED] - click(findTestObject("Page_Esports/button_Login")): Object: 'Object Repository/Page_Esports/button_Login' is clicked on
+
+26-06-2024T14:37:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Esports/button_Login' is clicked on
+
+26-06-2024T14:37:43 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Sign in to - Saudi Esports Federation/input__email"), "admin@saudiesports.sa"): Text 'admin@saudiesports.sa' is set on object 'Object Repository/Page_Sign in to - Saudi Esports Federation/input__email'
+
+26-06-2024T14:37:48 - [MESSAGE][PASSED] - Text 'admin@saudiesports.sa' is set on object 'Object Repository/Page_Sign in to - Saudi Esports Federation/input__email'
+
+26-06-2024T14:37:48 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Sign in to - Saudi Esports Federation/input__password"), "9NLz+4tGZcQ="): Text ****** has been set on object 'Object Repository/Page_Sign in to - Saudi Esports Federation/input__password'
+
+26-06-2024T14:37:50 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Sign in to - Saudi Esports Federation/input__password'
+
+26-06-2024T14:37:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign in to - Saudi Esports Federation/form_Log In                    Welcome to E_27c9fa")): Object: 'Object Repository/Page_Sign in to - Saudi Esports Federation/form_Log In                    Welcome to E_27c9fa' is clicked on
+
+26-06-2024T14:37:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign in to - Saudi Esports Federation/form_Log In                    Welcome to E_27c9fa' is clicked on
+
+26-06-2024T14:37:52 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Sign in to - Saudi Esports Federation/input__password"), "HwXnxaZD17M="): Text ****** has been set on object 'Object Repository/Page_Sign in to - Saudi Esports Federation/input__password'
+
+26-06-2024T14:37:55 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Sign in to - Saudi Esports Federation/input__password'
+
+26-06-2024T14:37:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign in to - Saudi Esports Federation/input__login")): Object: 'Object Repository/Page_Sign in to - Saudi Esports Federation/input__login' is clicked on
+
+26-06-2024T14:37:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign in to - Saudi Esports Federation/input__login' is clicked on
+
+26-06-2024T14:37:57 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+26-06-2024T14:37:57 - [TEST_STEP][PASSED] - println("i am in after test case in test listener"): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[26-06-2024T14:36:05 - [TEST_SUITE][PASSED] - DemoLogin: Test Cases/Demo tests/Test7_callableTestLogin]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
