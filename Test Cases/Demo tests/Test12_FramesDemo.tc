@@ -4,5 +4,6 @@
    <name>Test12_FramesDemo</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>9b7aecfa-bf5f-4192-ab90-f315938efc86</testCaseGuid>
 </TestCaseEntity>

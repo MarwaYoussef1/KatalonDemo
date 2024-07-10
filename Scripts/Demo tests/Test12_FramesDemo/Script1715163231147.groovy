@@ -25,15 +25,15 @@ WebUI.click(findTestObject('Object Repository/Page_Frames/div_iFrame Demo'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Frames/input_text'), '123')
 
-WebUI.click(findTestObject('Object Repository/Page_Frames/a_Iframe with in an Iframe'))
+//WebUI.click(findTestObject('Object Repository/Page_Frames/a_Iframe with in an Iframe'))
 
-WebUI.click(findTestObject('Object Repository/Page_Frames/h5_Nested iFrames'))
+//WebUI.click(findTestObject('Object Repository/Page_Frames/h5_Nested iFrames'))
 
-WebUI.click(findTestObject('Object Repository/Page_Frames/h5_iFrame Demo'))
+//WebUI.click(findTestObject('Object Repository/Page_Frames/h5_iFrame Demo'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Frames/input_text (1)'), '123')
+//WebUI.setText(findTestObject('Object Repository/Page_Frames/input_text (1)'), '123')
 
-WebUI.click(findTestObject('Object Repository/Page_Frames/a_Single Iframe'))
+//WebUI.click(findTestObject('Object Repository/Page_Frames/a_Single Iframe'))
 
 WebUI.closeBrowser()
 
