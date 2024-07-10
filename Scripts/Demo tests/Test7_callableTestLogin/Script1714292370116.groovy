@@ -19,19 +19,20 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://qa.saudiesports.sa/')
+WebUI.navigateToUrl('https://uat.saudiesports.sa/')
 
 WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('Page_Esports/button_Login'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Sign in to - Saudi Esports Federation/input__email'), 'admin@saudiesports.sa')
+WebUI.setText(findTestObject('Object Repository/Page_Sign in to - Saudi Esports Federation/input__email'), username)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to - Saudi Esports Federation/input__password'), '9NLz+4tGZcQ=')
+WebUI.setText(findTestObject('Object Repository/Page_Sign in to - Saudi Esports Federation/input__password'), password)
 
 WebUI.click(findTestObject('Object Repository/Page_Sign in to - Saudi Esports Federation/form_Log In                    Welcome to E_27c9fa'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to - Saudi Esports Federation/input__password'), 'HwXnxaZD17M=')
+//WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to - Saudi Esports Federation/input__password'), 'HwXnxaZD17M=')
 
 WebUI.click(findTestObject('Object Repository/Page_Sign in to - Saudi Esports Federation/input__login'))
+
 
