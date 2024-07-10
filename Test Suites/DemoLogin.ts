@@ -24,5 +24,17 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Demo tests/Test7_callableTestLogin</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7b378e7d-cc88-4f3d-a6af-efde5c1a0d9d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>22d45139-7a3b-4088-8bae-d8dd28b90b04</variableId>
+      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>
