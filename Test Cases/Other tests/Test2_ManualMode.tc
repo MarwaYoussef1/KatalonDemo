@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Test2_ManualMode</name>
-   <tag>@sainty</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>bb335ca9-d67a-4c37-90b1-4eab68e5c2c6</testCaseGuid>
-</TestCaseEntity>

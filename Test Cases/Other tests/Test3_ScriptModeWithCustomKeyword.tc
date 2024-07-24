@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Test3_ScriptModeWithCustomKeyword</name>
-   <tag>@sainty</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>5aebe7fb-25a3-4abb-9e27-ea74ad864472</testCaseGuid>
-</TestCaseEntity>

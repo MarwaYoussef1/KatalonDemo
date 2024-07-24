@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Test14_CallLoginEsport</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>b3ee705a-ee70-48ae-b146-df91fdf81a92</testCaseGuid>
-</TestCaseEntity>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Test7_callableTestLogin</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>37e9fd1f-ec5a-4573-a1ca-26eac9193550</testCaseGuid>
-</TestCaseEntity>
